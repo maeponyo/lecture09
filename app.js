@@ -1,6 +1,6 @@
 var GoogleAPI = {
   endpoint: "https://www.googleapis.com/youtube/v3/search",
-  apikey: ""
+  apikey: "AIzaSyC6BWTaMVzermwfUBvlUB-yn0uAZZWyLds"
 };
       
 
